@@ -1,0 +1,1826 @@
+<div>
+<!--游戏列表-->
+<ul class="cont" id="android-cont">
+<li class="item">
+			<a href="http://flash1.7k7k.com/h5/weixin/7k7ktank1/index.html" class="clearfix">
+				<img xSrc="http://i2.7k7kimg.cn/cms/cms10/20140926/170803_2069.jpg" src="http://i2.7k7kimg.cn/cms/cms10/20140926/170803_2069.jpg" alt="坦克大战" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">坦克大战</span>
+						<span class="mark hot">新上线</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+                                        <p><span class="size">游戏人数：</span>
+					<span class="size">26万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+<li class="item">
+			<a href="http://flash1.7k7k.com/h5/weixin/3dboxing/game.htm" class="clearfix">
+				<img xSrc="http://p5.7k7kimg.cn/html5app/201409/2416/8-1409241641092H.jpg" src="http://p5.7k7kimg.cn/html5app/201409/2416/8-1409241641092H.jpg" alt="3D拳王" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">3D拳王</span>
+						<span class="mark hot">新上线</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+                                        <p><span class="size">游戏人数：</span>
+					<span class="size">37万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+<li class="item">
+			<a href="http://flash1.7k7k.com/h5/weixin/gsdr/game.htm" class="clearfix">
+				<img xSrc="http://p2.7k7kimg.cn/html5app/201409/2314/8-140923140105352.JPG" src="http://p2.7k7kimg.cn/html5app/201409/2314/8-140923140105352.JPG" alt="果蔬达人" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">果蔬达人</span>
+						<span class="mark hot">热门推荐</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+                                        <p><span class="size">游戏人数：</span>
+					<span class="size">62万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+<li class="item">
+			<a href="http://flash1.7k7k.com/h5/weixin/nmkp/game.html" class="clearfix">
+				<img xSrc="http://i5.7k7kimg.cn/cms/cms10/20140923/103901_7673.jpg" src="http://i5.7k7kimg.cn/cms/cms10/20140923/103901_7673.jpg" alt="减肥速跑" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">减肥速跑</span>
+						<span class="mark hot">火爆新游</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+                                        <p><span class="size">游戏人数：</span>
+					<span class="size">51万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+<li class="item">
+			<a href="http://flash1.7k7k.com/h5/weixin/laserman/game.html" class="clearfix">
+				<img xSrc="http://i5.7k7kimg.cn/cms/cms10/20140922/112509_9732.jpg" src="http://i5.7k7kimg.cn/cms/cms10/20140922/112509_9732.jpg" alt="激光防线" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">激光防线</span>
+						<span class="mark new">推荐</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+                                        <p><span class="size">游戏人数：</span>
+					<span class="size">42万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+<li class="item">
+			<a href="http://flash1.7k7k.com/h5/weixin/forcest/game.htm" class="clearfix">
+				<img xSrc="http://p1.7k7kimg.cn/html5app/201409/2214/8-14092214194IA.jpg" src="http://p1.7k7kimg.cn/html5app/201409/2214/8-14092214194IA.jpg" alt="你有手机强迫症吗" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">你有手机强迫症吗</span>
+						<span class="mark new">热门</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+                                        <p><span class="size">游戏人数：</span>
+					<span class="size">75万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+<li class="item">
+			<a href="http://flash1.7k7k.com/h5/weixin/sds/game.htm" class="clearfix">
+				<img xSrc="http://p2.7k7kimg.cn/html5app/201409/1910/8-140919102P1529.jpg" src="http://p2.7k7kimg.cn/html5app/201409/1910/8-140919102P1529.jpg" alt="胸口碎大石" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">胸口碎大石</span>
+						<span class="mark new">火爆新游</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+                                        <p><span class="size">游戏人数：</span>
+					<span class="size">69万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+<li class="item">
+			<a href="http://flash1.7k7k.com/h5/weixin/zfj/index.html" class="clearfix">
+				<img xSrc="http://p4.7k7kimg.cn/html5app/201409/1610/8-140916105631F1.jpg" src="http://p4.7k7kimg.cn/html5app/201409/1610/8-140916105631F1.jpg" alt="纸飞机" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">纸飞机</span>
+						<span class="mark new">经典</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+                                        <p><span class="size">游戏人数：</span>
+					<span class="size">80万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/tuoguang/game.html" class="clearfix">
+				<img xSrc="http://i1.7k7kimg.cn/cms/cms10/20140910/150922_2091.jpg" src="http://i1.7k7kimg.cn/cms/cms10/20140910/150922_2091.jpg" alt="脱光攻略" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">脱光攻略</span>
+						<span class="mark new">热门游戏</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+                                        <p><span class="size">游戏人数：</span>
+					<span class="size">93万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+<li class="item">
+			<a href="http://flash1.7k7k.com/h5/weixin/cherry/game.htm" class="clearfix">
+				<img xSrc="http://p1.7k7kimg.cn/html5app/201409/1516/8-140915160H3416.jpg" src="http://p1.7k7kimg.cn/html5app/201409/1516/8-140915160H3416.jpg" alt="逼死处女座" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">逼死处女座</span>
+						<span class="mark new">热门游戏</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+                                        <p><span class="size">游戏人数：</span>
+					<span class="size">90万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/djz/game.html" class="clearfix">
+				<img xSrc="http://i1.7k7kimg.cn/cms/cms10/20140916/105022_8552.jpg" src="http://i1.7k7kimg.cn/cms/cms10/20140916/105022_8552.jpg" alt="打击者" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">打击者</span>
+						<span class="mark new">长期火爆</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+                                        <p><span class="size">游戏人数：</span>
+					<span class="size">113万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/mspt/game.html" class="clearfix">
+				<img xSrc="http://i4.7k7kimg.cn/cms/cms10/20140915/104146_4636.jpg" src="http://i4.7k7kimg.cn/cms/cms10/20140915/104146_4636.jpg" alt="美女拼图" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">美女拼图</span>
+						<span class="mark new">热门</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+                                        <p><span class="size">游戏人数：</span>
+					<span class="size">71万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/ksiphone6/game.html" class="clearfix">
+				<img xSrc="http://i5.7k7kimg.cn/cms/cms10/20140915/100912_4172.jpg" src="http://i5.7k7kimg.cn/cms/cms10/20140915/100912_4172.jpg" alt="狂摄iPhone6" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">狂摄iPhone6</span>
+						<span class="mark new">长期火爆</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+                                        <p><span class="size">游戏人数：</span>
+					<span class="size">98万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/yxngmrg/game.html" class="clearfix">
+				<img xSrc="http://i2.7k7kimg.cn/cms/cms10/20140911/095737_8956.jpg" src="http://i2.7k7kimg.cn/cms/cms10/20140911/095737_8956.jpg" alt="英雄难过美人关" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">英雄难过美人关</span>
+						<span class="mark new">经典</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+                                        <p><span class="size">游戏人数：</span>
+					<span class="size">102万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/cjmla1/game.html" class="clearfix">
+				<img xSrc="http://i3.7k7kimg.cn/cms/cms10/20140909/101817_3313.jpg" src="http://i3.7k7kimg.cn/cms/cms10/20140909/101817_3313.jpg" alt="超级马里奥" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">超级马里奥</span>
+						<span class="mark new">热门游戏</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+                                        <p><span class="size">游戏人数：</span>
+					<span class="size">69万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/wzq1/game.html" class="clearfix">
+				<img xSrc="http://i3.7k7kimg.cn/cms/cms10/20140909/150941_7448.jpg" src="http://i3.7k7kimg.cn/cms/cms10/20140909/150941_7448.jpg" alt="五子棋" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">五子棋</span>
+						<span class="mark new">经典游戏</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+                                        <p><span class="size">游戏人数：</span>
+					<span class="size">63万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/rengzhituan/index.htm" class="clearfix">
+				<img xSrc="http://i5.7k7kimg.cn/cms/cms10/20140903/104258_6853.jpg" src="http://i5.7k7kimg.cn/cms/cms10/20140903/104258_6853.jpg" alt="扔纸团" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">扔纸团</span>
+						<span class="mark new">经典</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+                                        <p><span class="size">游戏人数：</span>
+					<span class="size">49万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/hjby1/game.html" class="clearfix">
+				<img xSrc="http://i2.7k7kimg.cn/cms/cms10/20140904/170044_5859.jpg" src="http://i2.7k7kimg.cn/cms/cms10/20140904/170044_5859.jpg" alt="火贱兔回月球" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">火贱兔回月球</span>
+						<span class="mark new">新上线</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+                                        <p><span class="size">游戏人数：</span>
+					<span class="size">52万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/birdcat/game.htm" class="clearfix">
+				<img xSrc="http://p3.7k7kimg.cn/html5app/201409/0311/8-140Z3114052Q4.jpg" src="http://p3.7k7kimg.cn/html5app/201409/0311/8-140Z3114052Q4.jpg" alt="飞翔神经猫" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">飞翔神经猫</span>
+						<span class="mark new">热门经典</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+                                        <p><span class="size">游戏人数：</span>
+					<span class="size">86万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/mooncake/index.html" class="clearfix">
+				<img xSrc="http://p5.7k7kimg.cn/html5app/201408/2717/8-140RGI619360.jpg" src="http://p5.7k7kimg.cn/html5app/201408/2717/8-140RGI619360.jpg" alt="中秋吃月饼大赛" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">中秋吃月饼大赛</span>
+						<span class="mark new">推荐</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+                                        <p><span class="size">游戏人数：</span>
+					<span class="size">92万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/motian/game.html" class="clearfix">
+				<img xSrc="http://p3.7k7kimg.cn/html5app/201409/0111/8-140Z1114439230.jpg" src="http://p3.7k7kimg.cn/html5app/201409/0111/8-140Z1114439230.jpg" alt="摩天高楼" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">摩天高楼</span>
+						<span class="mark new">热门游戏</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+                                        <p><span class="size">游戏人数：</span>
+					<span class="size">75万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/4-island/4-island.htm" class="clearfix">
+				<img xSrc="http://i4.7k7kimg.cn/cms/cms10/20140828/181437_1987.jpg" alt="岛国么么哒" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">岛国么么哒</span>
+						<span class="mark new">热门</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+                                        <p><span class="size">游戏人数：</span>
+					<span class="size">103万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/zqdn/game.htm" class="clearfix">
+				<img xSrc="http://p5.7k7kimg.cn/html5app/201408/2816/8-140RQ62220938.jpg" alt="最强大脑" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">最强大脑</span>
+						<span class="mark new">热门游戏</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+                                        <p><span class="size">游戏人数：</span>
+					<span class="size">91万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/duxin4/index.html" class="clearfix">
+				<img xSrc="http://i3.7k7kimg.cn/cms/cms10/20140819/143908_5076.jpg" alt="怪兽读心术" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">怪兽读心术</span>
+						<span class="mark new">热门游戏</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+                                        <p><span class="size">游戏人数：</span>
+					<span class="size">80万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/jksz/game.html" class="clearfix">
+				<img xSrc="http://p5.7k7kimg.cn/html5app/201408/2518/8-140R51RG64G.jpg" alt="解开绳子" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">解开绳子</span>
+						<span class="mark new">热门</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+                                        <p><span class="size">游戏人数：</span>
+					<span class="size">68万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/jidan/game.html" class="clearfix">
+				<img xSrc="http://p5.7k7kimg.cn/html5app/201408/2215/8-140R2155004I2.jpg" alt="抛鸡蛋" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">抛鸡蛋</span>
+						<span class="mark new">热门经典</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">76万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/mxbttz/game.html" class="clearfix">
+				<img xSrc="http://p1.7k7kimg.cn/html5app/201408/2019/9-140R01Z045253.jpg" alt="冰桶挑战" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">冰桶挑战</span>
+						<span class="mark new">热门游戏</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">26万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/caiquan/game.html" class="clearfix">
+				<img xSrc="http://p2.7k7kimg.cn/html5app/201408/2012/8-140R012054aW.jpg" alt="史上最坑爹猜拳" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">史上最坑爹猜拳</span>
+						<span class="mark new">热门</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">37万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/laoerzi2/game.html" class="clearfix">
+				<img xSrc="http://i1.7k7kimg.cn/cms/cms10/20140819/174736_3712.jpg" alt="帮龙哥捞儿子" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">帮龙哥捞儿子</span>
+						<span class="mark new">推荐</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">94万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/xzfzm/game.html" class="clearfix">
+				<img xSrc="http://p5.7k7kimg.cn/html5app/201408/1910/8-140Q9102153517.jpg" alt="全民寻找房祖名" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">全民寻找房祖名</span>
+						<span class="mark new">推荐</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">43万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/zljyfy/game.html" class="clearfix">
+				<img xSrc="http://i5.7k7kimg.cn/cms/cms10/20140828/124146_4537.jpg" alt="监狱风云" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">监狱风云</span>
+						<span class="mark new">热门</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">61万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/japanhit/hitjapan1.htm" class="clearfix">
+				<img xSrc="http://p2.7k7kimg.cn/html5app/201408/1514/8-140Q5144502200.jpg" alt="围住小鬼子" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">围住小鬼子</span>
+						<span class="mark new">热门</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">72万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/hitcat/index.html" class="clearfix">
+				<img xSrc="http://p2.7k7kimg.cn/html5app/201408/1410/8-140Q4103342W2.jpg" alt="棒打神经猫" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">棒打神经猫</span>
+						<span class="mark new">热门游戏</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">125万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/chinachess/index.htm" class="clearfix" > 
+				<img xSrc="http://p4.7k7kimg.cn/html5app/201408/1314/9-140Q31442463X.jpg" alt="中国象棋" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">中国象棋</span>
+						<span class="mark new">新游戏</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">85万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/nppp/game.htm" class="clearfix">
+				<img xSrc="http://p5.7k7kimg.cn/html5app/201408/1310/8-140Q3100112E5.jpg" alt="捏泡泡" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">捏泡泡</span>
+						<span class="mark new">推荐</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star4"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">54万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/mnmmd/index.html" class="clearfix">
+				<img xSrc="http://p3.7k7kimg.cn/html5app/201408/1116/9-140Q116360Q44.jpg" alt="美女么么哒" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">美女么么哒</span>
+						<span class="mark hot">热门</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star4"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">98万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/color/game2.html" class="clearfix">
+				<img xSrc="http://p4.7k7kimg.cn/html5app/201408/0718/8-140PGR24b50.png" alt="好色比拼" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">好色比拼</span>
+						<span class="mark hot">热门</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">153万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/chesss/game.htm" class="clearfix">
+				<img xSrc="http://p5.7k7kimg.cn/html5app/201408/0814/8-140PQ4305E95.jpg" alt="步步惊心" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">步步惊心</span>
+						<span class="mark new">推荐</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star4"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">76万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="马上玩" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/penguin2/game.html" class="clearfix">
+				<img xSrc="http://p1.7k7kimg.cn/html5app/201408/0817/9-140PQJ312519.jpg" alt="疯狂打企鹅" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">疯狂打企鹅</span>
+						<span class="mark new">推荐</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">117万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="疯狂打企鹅" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/spaceman/game.html" class="clearfix">
+				<img xSrc="http://p1.7k7kimg.cn/html5app/201408/0811/9-140PQ14K3218.jpg" alt="空间先生" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">空间先生</span>
+						<span class="mark hot">热门</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">135万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="空间先生" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/meizi/game.htm" class="clearfix">
+				<img xSrc="http://p3.7k7kimg.cn/html5app/201408/0418/8-140P41Q3253T.jpg" alt="找妹子" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">找妹子</span>
+						<span class="mark hot">热门</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">99万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="找妹子" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/zhuagui/game.html" class="clearfix">
+				<img xSrc="http://p5.7k7kimg.cn/html5app/201408/0818/8-140PQRI25T.png" alt="手机抓鬼" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">手机抓鬼</span>
+						<span class="mark new">还行</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star4"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">17万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="手机抓鬼" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/jianchi/36.htm" class="clearfix">
+				<img xSrc="http://p4.7k7kimg.cn/html5app/201408/1215/10-140Q215304JW.jpg" alt="谁能坚持50秒" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">谁能坚持50秒</span>
+						<span class="mark new">推荐</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">31万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="谁能坚持50秒" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/ooxx/game2.html" class="clearfix">
+				<img xSrc="http://p1.7k7kimg.cn/html5app/201408/0612/9-140P61210214U.jpg" alt="你能XXOO多少下" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">你能XXOO多少下</span>
+						<span class="mark hot">热门</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star4"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">78万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="你能XXOO多少下" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/zas/game.htm" class="clearfix">
+				<img xSrc="http://flash.7k7k.com/h5/weixin/zas/vapp/37/2.jpg" alt="炸屎奇遇记" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">炸屎奇遇记</span>
+						<span class="mark new">推荐</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star4"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">58万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="炸屎奇遇记" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/antok/game1.htm" class="clearfix">
+				<img xSrc="http://p3.7k7kimg.cn/html5app/201408/0614/8-140P6140919454.png" alt="踩死小蚂蚁" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">踩死小蚂蚁</span>
+						<span class="mark new">推荐</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">46万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="踩死小蚂蚁" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/huoyanjinjing/game.htm" class="clearfix">
+				<img xSrc="http://p3.7k7kimg.cn/html5app/201408/0516/8-140P5162AYT.jpg" alt="挑战火眼金睛" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">挑战火眼金睛</span>
+						<span class="mark hot">热门</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">143万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="挑战火眼金睛" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/zdsjd/game7.html" class="clearfix">
+				<img xSrc="http://p1.7k7kimg.cn/html5app/201408/0611/9-140P6113603355.jpg" alt="真屌丝鉴定" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">真屌丝鉴定</span>
+						<span class="mark new"></span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star3"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">27万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="真屌丝鉴定" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/meizi/game.htm" class="clearfix">
+				<img xSrc="http://p4.7k7kimg.cn/html5app/201408/0415/8-140P4153424G2.jpg" alt="扑倒王小明" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">扑倒王小明</span>
+						<span class="mark hot">热门经典</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">77万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="扑倒王小明" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/youarese2/game.html" class="clearfix">
+				<img xSrc="http://i2.7k7kimg.cn/cms/cms10/20140802/000331_6584.png" alt="看你有多色2" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">看你有多色2</span>
+						<span class="mark hot">热门经典</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">156万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="看你有多色2" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/light/game1.htm" class="clearfix">
+				<img xSrc="http://p2.7k7kimg.cn/html5app/201408/0115/8-140P1153055930.jpg" alt="七夕电灯泡" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">七夕电灯泡</span>
+						<span class="mark hot">热门经典</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">139万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="七夕电灯泡" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/love2die/game4.htm" class="clearfix">
+				<img xSrc="http://p2.7k7kimg.cn/html5app/201408/1518/1-140Q51U630C4.jpg" alt="摁死情侣" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">摁死情侣</span>
+						<span class="mark new"></span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star4"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">111万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="摁死情侣" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/dianwo/game.htm" class="clearfix">
+				<img xSrc="http://p4.7k7kimg.cn/html5app/201407/3117/8-140I11GQ4451.jpg" alt="点我点我" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">点我点我</span>
+						<span class="mark hot">热门经典</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">80万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="点我点我" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/cjrst/game.htm" class="clearfix">
+				<img xSrc="http://p5.7k7kimg.cn/html5app/201408/0610/8-140P6105610507.jpg" alt="超级染色体" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">超级染色体</span>
+						<span class="mark hot"></span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star4"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">95万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="超级染色体" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/yanse2/game.htm" class="clearfix">
+				<img xSrc="http://i3.7k7kimg.cn/cms/cms10/20140730/164754_5651.png" alt="看你有多色" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">看你有多色</span>
+						<span class="mark hot">热门经典</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">219万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="看你有多色" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/frog/game.htm" class="clearfix">
+				<img xSrc="http://p2.7k7kimg.cn/html5app/201407/3009/2-140I0093KNT.png" alt="青蛙过河" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">青蛙过河</span>
+						<span class="mark hot">热门经典</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">117万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="青蛙过河" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/mraahh/game.htm" class="clearfix">
+				<img xSrc="http://i2.7k7kimg.cn/cms/cms10/20140728/192510_2959.png" alt="命悬一线" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">命悬一线</span>
+						<span class="mark hot">热门经典</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">167万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="命悬一线" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/xxoo/game.html" class="clearfix">
+				<img xSrc="http://p4.7k7kimg.cn/html5app/201408/1518/1-140Q51UG9247.jpg" alt="小心色狼" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">小心色狼</span>
+						<span class="mark hot">热门经典</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">194万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="小心色狼" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/20140708/eye/game.html" class="clearfix">
+				<img xSrc="http://p5.7k7kimg.cn/html5app/201407/2917/2-140H91I15a30.png" alt="最强眼力" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">最强眼力</span>
+						<span class="mark hot">热门经典</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">175万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="最强眼力" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/20140708/3dbear/game.html" class="clearfix">
+				<img xSrc="http://p5.7k7kimg.cn/html5app/201407/2917/2-140H91I030293.png" alt="3D熊出没" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">3D熊出没</span>
+						<span class="mark hot">热门经典</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">79万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="3D熊出没" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/20140708/noone/game.html" class="clearfix">
+				<img xSrc="http://p2.7k7kimg.cn/html5app/201407/2917/2-140H91H449507.png" alt="一个都不能死" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">一个都不能死</span>
+						<span class="mark hot">热门经典</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">259万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="一个都不能死" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/sjmao2/game.html" class="clearfix">
+				<img xSrc="http://p1.7k7kimg.cn/html5app/201408/1518/1-140Q51U6421V.jpg" alt="围住神经猫2基友版" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">围住神经猫2基友版</span>
+						<span class="mark hot"></span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star4"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">177万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="围住神经猫2基友版" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/crazycat/game.html" class="clearfix">
+				<img xSrc="http://p2.7k7kimg.cn/html5app/201408/1518/1-140Q51UFQ91.jpg" alt="围住神经猫" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">围住神经猫</span>
+						<span class="mark hot"></span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star4"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">375万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="围住神经猫" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/yangtuo/game1.htm" class="clearfix">
+				<img xSrc="http://p5.7k7kimg.cn/html5app/201407/2917/2-140H91K051494.jpg" alt="围住羊驼小弟弟" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">围住羊驼小弟弟</span>
+						<span class="mark hot"></span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star3"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">86万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="围住羊驼小弟弟" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/pucat/game.html" class="clearfix">
+				<img xSrc="http://p2.7k7kimg.cn/html5app/201408/1518/1-140Q51UI2455.jpg" alt="功夫猫斗群狗" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">功夫猫斗群狗</span>
+						<span class="mark hot"></span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">81万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="功夫猫斗群狗" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/N/game.html" class="clearfix">
+				<img xSrc="http://p2.7k7kimg.cn/html5app/201407/2917/2-140H91J203335.png" alt="你是我的小苹果" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">你是我的小苹果</span>
+						<span class="mark hot"></span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star4"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">107万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="你是我的小苹果" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/20140708/sister/game.htm" class="clearfix">
+				<img xSrc="http://p2.7k7kimg.cn/html5app/201407/2917/2-140H91I513H0.jpg" alt="测试闺蜜另一面" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">闺蜜另一面</span>
+						<span class="mark new">测试</span>
+					</div>
+					<p>
+						<span class="size">测试指数：</span>
+						<span class="star">
+							<span class="star-inner star4"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">80万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="测试闺蜜另一面" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/20140708/jump/game.html" class="clearfix">
+				<img xSrc="http://p2.7k7kimg.cn/html5app/201407/2917/2-140H91I34QX.png" alt="我跳我跳我跳跳跳" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">我跳我跳我跳跳跳</span>
+						<span class="mark hot"></span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star4"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">54万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="我跳我跳我跳跳跳" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/yanse2/game.htm" class="clearfix">
+				<img xSrc="http://i3.7k7kimg.cn/cms/cms10/20140730/164754_5651.png" alt="看你有多色" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">看你有多色</span>
+						<span class="mark hot">经典</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">217万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="看你有多色" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/loligo/game.htm" class="clearfix">
+				<img xSrc="http://p1.7k7kimg.cn/html5app/201408/1518/1-140Q51U63A56.jpg" alt="萝莉来了" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">萝莉来了</span>
+						<span class="mark hot">射击大作</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">67万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="萝莉来了" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/20140708/2048/game.html" class="clearfix">
+				<img xSrc="http://i3.7k7kimg.cn/cms/cms10/20140708/170049_5673.png" alt="2048" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">2048</span>
+						<span class="mark hot">经典中的经典</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">365万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="2048" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/20140708/guan2048/index.html" class="clearfix">
+				<img xSrc="http://p4.7k7kimg.cn/html5app/201407/2917/2-140H91H3045X.png" alt="官场2048" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">官场2048</span>
+						<span class="mark hot">经典中的经典</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">236万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="官场2048" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/weixin/1night/game.html" class="clearfix">
+				<img xSrc="http://p4.7k7kimg.cn/html5app/201407/2917/2-140H91H112255.jpg" alt="一夜N次郎" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">一夜N次郎</span>
+						<span class="mark hot"></span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">146万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="一夜N次郎" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/2014/molethefirstscavange/game.html" class="clearfix">
+				<img xSrc="http://p1.7k7kimg.cn/html5app/201407/2810/8-140HQ03533B8.jpg" alt="摩尔鼠吃蔬菜" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">摩尔鼠吃蔬菜</span>
+						<span class="mark recommed">高大上</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">78万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="摩尔鼠吃蔬菜" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/2014/monstersunion/game.html" class="clearfix">
+				<img xSrc="http://p2.7k7kimg.cn/html5app/201407/3116/9-140I1163306116.jpg" alt="怪物联盟" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">怪物联盟</span>
+						<span class="mark recommed">高大上游戏</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">96万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="怪物联盟" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/2014/dragonflow/game.html" class="clearfix">
+				<img xSrc="http://p3.7k7kimg.cn/html5app/201408/0118/8-140P11S4554B.jpg" alt="龙之花" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">龙之花</span>
+						<span class="mark recommed">高大上游戏</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">83万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="龙之花" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/2014/rhinorink/game.html" class="clearfix">
+				<img xSrc="http://p2.7k7kimg.cn/html5app/201408/0714/9-140PG42H05P.jpg" alt="犀牛溜冰场" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">犀牛溜冰场</span>
+						<span class="mark recommed">高大上游戏</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">68万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="犀牛溜冰场" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+		<li class="item">
+			<a href="http://flash.7k7k.com/h5/2014/sunbeams/game.html" class="clearfix">
+				<img xSrc="http://p1.7k7kimg.cn/html5app/201408/0514/8-140P514145c23.jpg" alt="可爱的太阳" class="thumb"/>
+				<div class="des">
+					<div class="tit">
+						<span class="title">可爱的太阳</span>
+						<span class="mark recommed">高大上游戏</span>
+					</div>
+					<p>
+						<span class="size">游戏指数：</span>
+						<span class="star">
+							<span class="star-inner star5"></span>
+						</span>
+					</p>
+<p><span class="size">游戏人数：</span>
+					<span class="size">96万人</span></p>
+				</div>
+				<span class="play">
+					<i href="javascript:;" title="可爱的太阳" class="btn">马上玩</i>
+					<p>马上玩</p>
+				</span>
+			</a>
+		</li>
+	</ul>
+
+	<!--分享
+	<div class="share">
+		<a href="javascript:;" class="weixin"></a>
+		<a href="javascript:;" class="sina"></a>
+		<a href="javascript:;" class="qqzone"></a>
+		<a href="javascript:;" class="tencent"></a>
+		<a href="javascript:;" class="renren"></a>
+	</div>-->
+	
+	<div class="foot_con">
+		<p>&copy;2014 7k7k游戏</p>
+	</div>
+</div>
